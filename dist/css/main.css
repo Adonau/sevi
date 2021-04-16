@@ -1,3 +1,19 @@
+/*
+----------------------
+Mini map css style
+-------------------
+1) Header start
+2) Office start
+3) Partners start
+4) Choose start
+5) Process start
+6) Packages start
+7) Read start
+8) Footer start
+
+----------------------
+*/
+/* Start Normalize */
 html,
 body {
   padding: 0;
@@ -177,20 +193,10 @@ ul {
   src: url(dist/fonts/Open_sans/OpenSans-Bold.ttf);
   font-display: block; }
 
-/*
-----------------------
-Mini map css style
--------------------
-1) Header start
-2) Office start
-3) Partners start
-4) Choose start
-5) Process start
-6) Packages start
-7) Read start
-8) Footer start
-
-----------------------
+/* 
+--------------
+Begin css
+--------------
 */
 .body {
   display: -webkit-box;
