@@ -1,0 +1,18 @@
+@import "base/normalize";
+@import "base/var";
+@import "base/fonts";
+@import "base/common";
+
+// common item
+@import "components/logo";
+@import "components/title";
+
+// common layot
+@import "layout/header";
+@import "layout/wrapper";
+@import "layout/footer";
+
+// pages
+
+@import "pages/first"
+
