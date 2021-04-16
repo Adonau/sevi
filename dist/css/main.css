@@ -185,12 +185,12 @@ ul {
 
 @font-face {
   font-family: "Open";
-  src: url(dist/fonts/Open_sans/OpenSans-Regular.ttf);
+  src: url(../fonts/Open_sans/OpenSans-Regular.ttf);
   font-display: block; }
 
 @font-face {
   font-family: "OpenBold";
-  src: url(dist/fonts/Open_sans/OpenSans-Bold.ttf);
+  src: url(../fonts/Open_sans/OpenSans-Bold.ttf);
   font-display: block; }
 
 /* 
@@ -629,8 +629,10 @@ Begin css
     width: 55px;
     height: 55px;
     background: #fff;
-    -webkit-box-shadow: 54px -54px #fff, 0px -54px #fff, 54px 0px #fff, 110px -110px #fff, 255px -110px #fff, 255px -0px #fff, 200px -55px #fff;
-    box-shadow: 54px -54px #fff, 0px -54px #fff, 54px 0px #fff, 110px -110px #fff, 255px -110px #fff, 255px -0px #fff, 200px -55px #fff; }
+    -webkit-box-shadow: 54px -54px #fff, 0px -54px #fff, 54px 0px #fff, 110px -110px #fff, 255px -110px #fff,
+ 255px -0px #fff, 200px -55px #fff;
+    box-shadow: 54px -54px #fff, 0px -54px #fff, 54px 0px #fff, 110px -110px #fff, 255px -110px #fff,
+ 255px -0px #fff, 200px -55px #fff; }
   .process__title {
     width: 100%;
     max-width: 600px;
